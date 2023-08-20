@@ -5,6 +5,8 @@ Here you can see it in action:
 
 https://www.youtube.com/watch?v=as2hVSjyxQs
 
+https://www.youtube.com/watch?v=WfKeQNPIYVI
+
 The program is a **.NET** console application written in **C#** you can easily recompile with **Visual Studio**, if you want.
 
 It must run on the same machine of the L4D2 server, which in case of you hosting the game it's your PC but it can also run on Windows/Linux (tested on Ubuntu Server 22.04) dedicated servers, if your hosting provider allows you to do so. The **.NET 6.0** runtimes must be installed.
